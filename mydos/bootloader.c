@@ -1,4 +1,4 @@
-//*
+/*
  *    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
  *    SPDX-FileCopyrightText: 2024 FelipeCecato <fececato31@gmail.com>
  *   
