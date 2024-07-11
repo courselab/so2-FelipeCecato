@@ -1,11 +1,13 @@
 /*
- *    SPDX-FileCopyrightText: 2024 Monaco F. J. <monaco@usp.br>
+ *    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
+ *    SPDX-FileCopyrightText: 2024 FelipeCecato <fececato31@gmail.com>
  *   
  *    SPDX-License-Identifier: GPL-3.0-or-later
  *
- *    This file is part of SYSeg, available at https://gitlab.com/monaco/syseg.
+ *  This file is a derivative work from SYSeg (https://gitlab.com/monaco/syseg)
+ *  and contains modifications carried out by the following author(s):
+ *  FelipeCecato <fececato31@gmail.com>
  */
-
 
 #include "bios2.h"		/* For udelay().      */
 #include "kaux.h"		/* For ROWS and COLS. */
