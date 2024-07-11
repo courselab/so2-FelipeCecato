@@ -1,8 +1,17 @@
-#    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
+#    SPDX-FileCopyrightText: 2024 FelipeCecato
 #   
-#    SPDX-License-Identifier: GPL-3.0-or-later
-#
-#    This file is part of SYSeg, available at https://gitlab.com/monaco/syseg.
+#    SPDX-License-Identifier: CC-BY-ND-4.0
+
+# AUTHORS
+# ------------------------------
+
+# FelipeCecato <fececato31@gmail.com>
+
+# Attribution
+# ------------------------------
+# This project is a programming exercise based on SYSeg learning material.
+# SYSeg is accessible at: https://gitlab.com/monaco/syseg-template.
+
 
 	.code16gcc		/* Select 16-bit code.                    */
 	.global _start		/* This will be the program entry point.  */
