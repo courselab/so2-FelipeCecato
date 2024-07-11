@@ -1,18 +1,17 @@
-#    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
+#    SPDX-FileCopyrightText: 2024 FelipeCecato
 #   
-#    SPDX-License-Identifier: GPL-3.0-or-later
-#
-#    This file is part of SYSeg, available at https://gitlab.com/monaco/syseg.
+#    SPDX-License-Identifier: CC-BY-ND-4.0
 
-	/* This source file implements a few low-level functions needed by 
-	   the bootloader, which are easier to write directly in assembly.
-	   They are mostly procedures that invoke the BIOS services. Since
-	   the machine code corresponding to both the bootloader and this are
-	   subject to the 512-byte length limit, other low-level functions
-	   not strictly required during the boot were set apart and 
-	   implemented in another source file (asm2.S) */
+# AUTHORS
+# ------------------------------
 
-	
+# FelipeCecato <fececato31@gmail.com>
+
+# Attribution
+# ------------------------------
+# This project is a programming exercise based on SYSeg learning material.
+# SYSeg is accessible at: https://gitlab.com/monaco/syseg-template.
+
 	.code16gcc
 	.global clear, kwrite, fatal, load_kernel, halt, set_cursor
 	
