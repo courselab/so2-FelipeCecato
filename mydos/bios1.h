@@ -1,10 +1,16 @@
-/*
- *    SPDX-FileCopyrightText: 2021 Monaco F. J. <monaco@usp.br>
- *   
- *    SPDX-License-Identifier: GPL-3.0-or-later
- *
- *    This file is part of SYSeg, available at https://gitlab.com/monaco/syseg.
- */
+#    SPDX-FileCopyrightText: 2024 FelipeCecato
+#   
+#    SPDX-License-Identifier: CC-BY-ND-4.0
+
+# AUTHORS
+# ------------------------------
+
+# FelipeCecato <fececato31@gmail.com>
+
+# Attribution
+# ------------------------------
+# This project is a programming exercise based on SYSeg learning material.
+# SYSeg is accessible at: https://gitlab.com/monaco/syseg-template.
 
 #ifndef BIOS1_H
 #define BIOS1_H
