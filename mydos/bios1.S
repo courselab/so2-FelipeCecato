@@ -12,6 +12,7 @@
 # This project is a programming exercise based on SYSeg learning material.
 # SYSeg is accessible at: https://gitlab.com/monaco/syseg-template.
 
+
 	.code16gcc
 	.global clear, kwrite, fatal, load_kernel, halt, set_cursor
 	
