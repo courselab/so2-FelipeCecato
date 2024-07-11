@@ -17,13 +17,6 @@
 ## These are the rules of interest in this set of examples.
 ##
 
-
-
-# By default, the bootable program name will by $(dosname).bin
-# If you export this directory to extend the example as part of a programming
-# exercise, redefine $(dos) to reflect your own DOS name, say
-# dos = "amazingOS" 
-
 dos= "epief"
 
 # Build the OS and an example user program.
