@@ -1,3 +1,17 @@
+#    SPDX-FileCopyrightText: 2024 FelipeCecato
+#   
+#    SPDX-License-Identifier: CC-BY-ND-4.0
+
+# AUTHORS
+# ------------------------------
+
+# FelipeCecato <fececato31@gmail.com>
+
+# Attribution
+# ------------------------------
+# This project is a programming exercise based on SYSeg learning material.
+# SYSeg is accessible at: https://gitlab.com/monaco/syseg-template.
+
 dnl    SPDX-FileCopyrightText: 2024 Monaco F. J. <monaco@usp.br>
 dnl   
 dnl    SPDX-License-Identifier: GPL-3.0-or-later
